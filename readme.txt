@@ -1,4 +1,4 @@
-Git are free software
+Git is a free software
 Gine are a version control system
 Git is a tool
 Git is a distributed version control system.
